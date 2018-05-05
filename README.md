@@ -10,6 +10,7 @@ Have an addition? Please create a pull request and answer the following question
 1. Any other details?
 
 # [RubyConf](https://rubyconf.org/)
+|              |                  |              |
 |--------------| -----------------| ------------ |
 | Childcare?      | yes    |
 | Cost?     | unknown |
